@@ -13,3 +13,21 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+---
+
+## 🚀 About Me
+
+- 💻 Passionate about building fullstack apps with **React**, **Ruby on Rails**, **JavaScript**, and **Go**
+- 🧠 Constantly learning & sharing what I learn
+- 🛠️ Focused on **performance**, **developer experience**, and **clean UI**
+
+---
+
+## 🧠 My Favorite Stack
+
+![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript)
+
+---
