@@ -22,6 +22,7 @@ Here are some ideas to get you started:
 - 💻 Passionate about building fullstack apps with **React**, **Ruby on Rails**, **JavaScript**, and **Go**
 - 🧠 Constantly learning & sharing what I learn
 - 🛠️ Focused on **performance**, **developer experience**, and **clean UI**
+- ✨ Portfolio: https://veeresh-portfolio-beta.vercel.app/
 
 ---
 
